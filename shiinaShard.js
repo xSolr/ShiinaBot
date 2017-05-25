@@ -1,4 +1,4 @@
-//All credit goes to Abal, just testing this out for now <3
+//All credit goes to Abal, just testing this out for now <3 test
 const Bucket = require("../util/Bucket");
 const Call = require("../structures/Call");
 const Constants = require("../Constants");
